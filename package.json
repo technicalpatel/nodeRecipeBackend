@@ -1,0 +1,30 @@
+{
+  "name": "recipe_house",
+  "version": "1.0.0",
+  "description": "\"Recipe_House\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Recipe_House\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-timeout": "^1.9.0",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "email-existence": "^0.1.6",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "loadtest": "^4.1.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.3",
+    "swagger-ui-express": "^4.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
